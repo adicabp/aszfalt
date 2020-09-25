@@ -1,0 +1,12 @@
+Egy 3.5 km hosszú, 9 m széles utat kell beborítani 12 cm vastag aszfalttal.
+1. Vezessen projektet az aszfalt m3 -ének meghatározására.
+2. Határozza meg a projekt részvevőinek a feladatát és annak határidejét.
+3. Az egyik résztvevő készítsen tervet ( folyamatábra ) a számoló program algoritmusára.
+4. A másik résztvevő készítse el a számoló programot.
+5. Ön mint projektmenedzser nem írhat bele egyetlen állományba sem, sem a tervbe sem a
+programkódba.
+6. A programot a terv alapján kell elkészíteni, egyeznie kell a folyamatábrával. Ha nem működik,
+vagy nem a kívánt eredményt adja, a hiba forrását tekintve vissza kell adni a megfelelő
+résztvevőnek ( tervező, kódoló ) javításra.
+7. A projekt menedzselésére használják a github verziókövető rendszert.
+Az elkészült projektet töltse fel a tanteremben.
