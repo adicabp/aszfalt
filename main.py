@@ -1,3 +1,7 @@
+
+print("(Bartha-Nyiri Adrienn, Subicz Adrián, Szeifert Nóra, Szikszai Ákos)\n")
+
+
 A = 3500    #út hossza(m)
 B = 9       #út szélessége(m)
 C = 0.12    #aszfalt vastagság(m)
